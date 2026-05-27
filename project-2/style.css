@@ -1,0 +1,32 @@
+html{
+     background-color: antiquewhite;
+}
+
+.container{
+    text-align: center;
+}
+
+#height,#weight {
+  width: 120px;
+  height: 30px;
+  margin-top: 20px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    color: rgba(37, 35, 7, 0.479);
+}
+
+#result {
+  font-size: 35px;
+  margin-left: 90px;
+  margin-top: 20px;
+  color: rgb(27, 23, 23);
+}
+
+#weight-guide {
+  margin-left: 75px;
+  margin-top: 25px;
+}
