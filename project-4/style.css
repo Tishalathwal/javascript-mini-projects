@@ -1,0 +1,43 @@
+html {
+  font-family:sans-serif;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.774);
+}
+
+#wrapper{
+    background-color: grey;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    width: 450px;
+    color: aliceblue;
+}
+
+h1{
+    color: rgba(238, 255, 0, 0.76);
+}
+h2{
+    color: rgba(238, 255, 0, 0.76);
+}
+
+.resultParas{
+    color: aliceblue;
+}
+
+#guessField{
+    margin-bottom: 10px;
+    line-height: 35px;
+}
+
+#subt{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
