@@ -7,7 +7,7 @@ A collection of beginner-friendly JavaScript mini projects built while learning 
 - BMI Calculator
 - Digital Clock
 - Guess The Number
-- Background Changer
+- Unlimited Colors
 - And more...
 
 ## Tech Used
